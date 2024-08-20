@@ -11,6 +11,7 @@ This project demonstrates how to use Terraform to deploy a modular AWS infrastru
 - AWS CLI installed and configured
 
 ## Project Structure
+```
 terraform-aws-project/
 ├── environments/
 │   └── dev/
@@ -27,6 +28,7 @@ terraform-aws-project/
 │       ├── variables.tf
 │       └── outputs.tf
 └── README.md
+```
 
 ## Module Descriptions
 
